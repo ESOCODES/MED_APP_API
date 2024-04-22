@@ -1,4 +1,4 @@
-# Medical Appointment Application -AHello!
+# Medical Appointment Application -Hello!
 
 Welcome to the Medical Appointment Application! This API streamlines the process of booking appointments between patients and doctors. It enables patients to create, cancel, and mark appointments as completed, while also allowing doctors to manage their availability status. This `README.md` file offers an introduction to the application, as well as instructions for setting it up and utilizing its features.
 
