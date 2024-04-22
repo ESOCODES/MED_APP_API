@@ -33,7 +33,7 @@ To set up the Medical Appointment Application, follow these steps:
 2. Navigate to the project directory:
 
     ```shell
-    cd Altschool_Med_App
+    cd MED_APP_API
     ```
 
 3. Create a virtual environment:
